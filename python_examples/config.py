@@ -1,5 +1,5 @@
 import numpy as np
-
+# testing codespaces
 class config:
     data_path_train = '../dataset/Amazon/amazon_train.txt'
     data_path_test = '../dataset/Amazon/amazon_test.txt'
